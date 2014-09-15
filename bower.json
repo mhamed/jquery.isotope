@@ -1,0 +1,21 @@
+{
+  "name": "jquery.isotope",
+  "version": "2.0.0",
+  "homepage": "https://github.com/aniss/jquery.isotope",
+  "authors": [
+    "Anis Bouraba <anis.bouraba@appsbroker.com>"
+  ],
+  "description": "jqueried isotope",
+  "main": "jquery.isotope.js",
+  "keywords": [
+    "isotope"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
